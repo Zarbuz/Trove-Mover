@@ -3,6 +3,8 @@ Trove Mover allow you to sort the thousands files created by dev tools from Trov
 
 **Warning : The modified batch files will convert the entire blueprints ! **
 * Go to : "C:\Program Files (x86)\Steam\steamapps\common\Trove\Games\Trove\Live"
+* Copy batch files into this folder
+* Launch devtool_extract_bdd.bat
 * Create folder "qbexport"
 * Run the modified "devtool_dungeon_blueprint_to_QB.bat" batch
 * Wait, take a coffee, maybe 10 ...
