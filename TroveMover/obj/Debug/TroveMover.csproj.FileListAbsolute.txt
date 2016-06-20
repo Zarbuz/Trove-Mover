@@ -1,0 +1,6 @@
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\bin\Debug\TroveMover.exe.config
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\bin\Debug\TroveMover.exe
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\bin\Debug\TroveMover.pdb
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\obj\Debug\TroveMover.csprojResolveAssemblyReference.cache
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\obj\Debug\TroveMover.exe
+E:\Documents\AProgrammes\CSharp\[Projet]Trove Mover\TroveMover\TroveMover\obj\Debug\TroveMover.pdb
