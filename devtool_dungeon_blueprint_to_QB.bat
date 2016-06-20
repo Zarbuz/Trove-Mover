@@ -3,7 +3,7 @@ set DESTDIR=%~dp1
 set TROVEDIR=%~dp0
 
 setlocal EnableDelayedExpansion
-FOR /R "%TROVEDIR%extraced\blueprints" %%f IN (*.blueprint) DO ( 
+FOR /R "%TROVEDIR%extracted\blueprints" %%f IN (*.blueprint) DO ( 
   set SRC="%%f"
   set DEST=%%~nf
   set DESTFN="%TROVEDIR%qbexport\!DEST!.qb"
